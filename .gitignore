@@ -1,0 +1,5 @@
+.idea
+.env.db
+.env.dev
+media
+*pycache*
